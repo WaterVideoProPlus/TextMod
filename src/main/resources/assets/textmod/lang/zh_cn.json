@@ -1,0 +1,8 @@
+{
+  "item.textmod.graphite": "石墨",
+
+  "itemGroup.text_group": "测试模组的物品栏",
+
+  "block.textmod.graphite_block": "石墨块",
+  "block.textmod.graphite_ore": "石墨矿"
+}

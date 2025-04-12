@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "textmod:block/graphite_block"
+    }
+  }
+}
