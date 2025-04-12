@@ -21,6 +21,7 @@ public class ModItemGroups {
 
                     entries.add(Items.COAL);
                     entries.add(Items.GOLD_INGOT);
+                    entries.add(Items.NETHERITE_PICKAXE);
 
                 }).build());
     public static void registerModItemGroups(){

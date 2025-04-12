@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/WaterVideoProPlus/textmod-template-1.21.1"
+		"sources": "https://github.com/WaterVideoProPlus/TextMod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/textmod/icon.png",

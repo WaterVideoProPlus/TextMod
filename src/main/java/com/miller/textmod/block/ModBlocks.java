@@ -12,9 +12,9 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
 
-    public static final Block GRAPHITE_BLOCK = register("graphite_block",new Block(AbstractBlock.Settings.create().strength(3.0f,3.0f)));
+    public static final Block GRAPHITE_BLOCK = register("graphite_block",new Block(AbstractBlock.Settings.create().requiresTool().strength(3.0f,3.0f)));
 
-    public static final Block GRAPHITE_ORE= register("graphite_ore",new Block(AbstractBlock.Settings.create().strength(4.5f,6.0f)));
+    public static final Block GRAPHITE_ORE= register("graphite_ore",new Block(AbstractBlock.Settings.create().requiresTool().strength(4.5f,6.0f)));
 
     public static void registerBlockItems(String id, Block block){
         Item item = Registry.register(Registries.ITEM, Identifier.of(TextMod.MOD_ID, id),new BlockItem(block, new Item.Settings()));

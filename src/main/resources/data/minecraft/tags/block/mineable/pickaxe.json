@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "textmod:graphite_ore",
+    "textmod:graphite_block"
+  ]
+}
